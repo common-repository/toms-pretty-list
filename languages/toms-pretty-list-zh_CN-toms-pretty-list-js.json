@@ -1,0 +1,141 @@
+{
+    "translation-revision-date": "2021-12-02 15:03+0000",
+    "generator": "Loco https://localise.biz/",
+    "source": "src/blocks/toms-pretty-list.js",
+    "domain": "toms-pretty-list",
+    "locale_data": {
+        "toms-pretty-list": {
+            "": {
+                "domain": "toms-pretty-list",
+                "lang": "zh_CN",
+                "plural-forms": "nplurals=1; plural=0;"
+            },
+            "Pretty List Settings": [
+                "\u6f02\u6f02\u5217\u8868\u8bbe\u7f6e"
+            ],
+            "Pretty List ": [
+                "\u6f02\u6f02\u5217\u8868"
+            ],
+            "Temporarily disable Pretty List Block": [
+                "\u6682\u65f6\u7981\u7528\u6f02\u6f02\u5217\u8868\u5757"
+            ],
+            "List Style ": [
+                "\u6f02\u6f02\u5217\u8868\u6837\u5f0f"
+            ],
+            "Font Icon Online Url": [
+                "\u5b57\u4f53\u56fe\u6807\u5728\u7ebf\u7f51\u5740"
+            ],
+            "Title Link": [
+                "\u6807\u9898\u94fe\u63a5"
+            ],
+            "Open in New tab ": [
+                "\u4ece\u65b0\u7a97\u53e3\u6253\u5f00"
+            ],
+            "List Link": [
+                "\u5217\u8868\u94fe\u63a5"
+            ],
+            "Title Style": [
+                "\u6807\u9898\u6837\u5f0f"
+            ],
+            "Reset: ": [
+                "\u91cd\u7f6e"
+            ],
+            "Reset to default color!!! ": [
+                "\u91cd\u7f6e\u4e3a\u9ed8\u8ba4\u989c\u8272!!!"
+            ],
+            "Svg Icon Size (Max: 1 ~ 1000)": [
+                "Svg \u5c3a\u5bf8\uff08\u6700\u5927\uff1a1 ~ 1000\uff09"
+            ],
+            "Title Icon Margin (Max: -1000 ~ 1000)": [
+                "\u6807\u9898\u56fe\u6807\u5916\u8fb9\u8ddd\uff08\u6700\u5927\uff1a-1000 ~ 1000\uff09"
+            ],
+            "Title Margin (Max: -1000 ~ 1000)": [
+                "\u6807\u9898\u5916\u8fb9\u8ddd\uff08\u6700\u5927\uff1a-1000 ~ 1000\uff09"
+            ],
+            "Title Padding (Max: 0 ~ 1000)": [
+                "\u6807\u9898\u5185\u8fb9\u8ddd\uff08\u6700\u5927\uff1a0 ~ 1000\uff09"
+            ],
+            "Title Border Radius (Max: 0 ~ 100)": [
+                "\u6807\u9898\u80cc\u666f\u5706\u89d2\uff08\u6700\u5927\uff1a0 ~ 100\uff09"
+            ],
+            "Icon Color": [
+                "\u56fe\u6807\u989c\u8272"
+            ],
+            "Copy the Current Color Value.": [
+                "\u590d\u5236\"\u5f53\u524d\u989c\u8272\u503c\"\u3002"
+            ],
+            "Copied!": [
+                "\u5df2\u590d\u5236\uff01"
+            ],
+            "Copy": [
+                "\u590d\u5236"
+            ],
+            "Reset Color: ": [
+                "\u91cd\u7f6e\u989c\u8272\uff1a"
+            ],
+            "Font Color": [
+                "\u5b57\u4f53\u989c\u8272"
+            ],
+            "Background Color": [
+                "\u80cc\u666f\u989c\u8272"
+            ],
+            "Content Style": [
+                "\u5185\u5bb9\u6837\u5f0f"
+            ],
+            "Icon Margin (Max: -1000 ~ 1000)": [
+                "\u56fe\u6807\u5916\u8fb9\u8ddd\uff08\u6700\u5927\uff1a-1000 ~ 1000\uff09"
+            ],
+            "Margin (Max: -1000 ~ 1000)": [
+                "\u5916\u8fb9\u8ddd \uff08\u6700\u5927\uff1a -1000 ~ 1000\uff09"
+            ],
+            "Padding (Max: 0 ~ 1000)": [
+                "\u5185\u8fb9\u8ddd\uff08\u6700\u5927\uff1a0 ~ 1000\uff09"
+            ],
+            "Border Radius (Max: 0 ~ 100)": [
+                "\u80cc\u666f\u5706\u89d2\uff08\u6700\u5927\uff1a0 ~ 100\uff09"
+            ],
+            "Box Style": [
+                "\u76d2\u5b50\u6837\u5f0f"
+            ],
+            "Box Margin (Max: -1000 ~ 1000)": [
+                "\u5916\u8fb9\u8ddd \uff08\u6700\u5927\uff1a -1000 ~ 1000\uff09"
+            ],
+            "Box Padding (Max: 0 ~ 1000)": [
+                "\u5185\u8fb9\u8ddd\uff08\u6700\u5927\uff1a 0 ~ 1000\uff09"
+            ],
+            "Box Border Radius (Max: 0 ~ 100)": [
+                "\u5706\u89d2\uff08\u6700\u5927\uff1a0 ~ 100\uff09"
+            ],
+            "This Block has been": [
+                "\u6b64\u5757\u5df2\u88ab"
+            ],
+            "Disabled": [
+                "\u7981\u7528"
+            ],
+            "Icon": [
+                "\u56fe\u6807"
+            ],
+            "SVG": [
+                "SVG"
+            ],
+            "List Title": [
+                "\u5217\u8868\u6807\u9898"
+            ],
+            "Link": [
+                "\u94fe\u63a5"
+            ],
+            "List Content": [
+                "\u5217\u8868\u5185\u5bb9"
+            ],
+            "Remove this line!!!": [
+                "\u5220\u9664\u6b64\u884c!!!"
+            ],
+            "Add New Items": [
+                "\u6dfb\u52a0"
+            ],
+            "Simple and beautiful list block. Support all font icon library and SVG icon.": [
+                "\u7b80\u5355\u800c\u7f8e\u4e3d\u7684\u5217\u8868\u5757\u3002\u652f\u6301\u6240\u6709\u5b57\u4f53\u56fe\u6807\u5e93\u548cSVG\u56fe\u6807\u3002"
+            ]
+        }
+    }
+}

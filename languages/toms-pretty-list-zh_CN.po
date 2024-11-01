@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS Pretty List\n"
+"POT-Creation-Date: 2021-12-02 22:40+0800\n"
+"PO-Revision-Date: 2021-12-02 15:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: toms-pretty-list.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.5.5; wp-5.8.2"
+
+#: src/blocks/toms-pretty-list.js:326
+msgid "Pretty List Settings"
+msgstr "漂漂列表设置"
+
+#: src/blocks/toms-pretty-list.js:329
+msgid "Pretty List "
+msgstr "漂漂列表"
+
+#: src/blocks/toms-pretty-list.js:330
+msgid "Temporarily disable Pretty List Block"
+msgstr "暂时禁用漂漂列表块"
+
+#: src/blocks/toms-pretty-list.js:338
+msgid "List Style "
+msgstr "漂漂列表样式"
+
+#: src/blocks/toms-pretty-list.js:350
+#, fuzzy
+msgid "Font Icon Online Url"
+msgstr "字体图标在线网址"
+
+#: src/blocks/toms-pretty-list.js:355
+msgid "Title Link"
+msgstr "标题链接"
+
+#: src/blocks/toms-pretty-list.js:362 src/blocks/toms-pretty-list.js:378
+msgid "Open in New tab "
+msgstr "从新窗口打开"
+
+#: src/blocks/toms-pretty-list.js:371
+#, fuzzy
+msgid "List Link"
+msgstr "列表链接"
+
+#: src/blocks/toms-pretty-list.js:389
+msgid "Title Style"
+msgstr "标题样式"
+
+#: src/blocks/toms-pretty-list.js:403 src/blocks/toms-pretty-list.js:424
+#: src/blocks/toms-pretty-list.js:446 src/blocks/toms-pretty-list.js:467
+#: src/blocks/toms-pretty-list.js:489 src/blocks/toms-pretty-list.js:509
+#: src/blocks/toms-pretty-list.js:529 src/blocks/toms-pretty-list.js:549
+#: src/blocks/toms-pretty-list.js:688 src/blocks/toms-pretty-list.js:710
+#: src/blocks/toms-pretty-list.js:731 src/blocks/toms-pretty-list.js:753
+#: src/blocks/toms-pretty-list.js:773 src/blocks/toms-pretty-list.js:793
+#: src/blocks/toms-pretty-list.js:813 src/blocks/toms-pretty-list.js:952
+#: src/blocks/toms-pretty-list.js:972 src/blocks/toms-pretty-list.js:992
+msgid "Reset: "
+msgstr "重置"
+
+#: src/blocks/toms-pretty-list.js:404 src/blocks/toms-pretty-list.js:425
+#: src/blocks/toms-pretty-list.js:447 src/blocks/toms-pretty-list.js:468
+#: src/blocks/toms-pretty-list.js:490 src/blocks/toms-pretty-list.js:510
+#: src/blocks/toms-pretty-list.js:530 src/blocks/toms-pretty-list.js:550
+#: src/blocks/toms-pretty-list.js:587 src/blocks/toms-pretty-list.js:625
+#: src/blocks/toms-pretty-list.js:662 src/blocks/toms-pretty-list.js:689
+#: src/blocks/toms-pretty-list.js:711 src/blocks/toms-pretty-list.js:732
+#: src/blocks/toms-pretty-list.js:754 src/blocks/toms-pretty-list.js:774
+#: src/blocks/toms-pretty-list.js:794 src/blocks/toms-pretty-list.js:814
+#: src/blocks/toms-pretty-list.js:851 src/blocks/toms-pretty-list.js:889
+#: src/blocks/toms-pretty-list.js:926 src/blocks/toms-pretty-list.js:953
+#: src/blocks/toms-pretty-list.js:973 src/blocks/toms-pretty-list.js:993
+#: src/blocks/toms-pretty-list.js:1029
+#, fuzzy
+msgid "Reset to default color!!! "
+msgstr "重置为默认颜色!!!"
+
+#: src/blocks/toms-pretty-list.js:456 src/blocks/toms-pretty-list.js:720
+msgid "Svg Icon Size (Max: 1 ~ 1000)"
+msgstr "Svg 尺寸（最大：1 ~ 1000）"
+
+#: src/blocks/toms-pretty-list.js:476
+msgid "Title Icon Margin (Max: -1000 ~ 1000)"
+msgstr "标题图标外边距（最大：-1000 ~ 1000）"
+
+#: src/blocks/toms-pretty-list.js:496
+msgid "Title Margin (Max: -1000 ~ 1000)"
+msgstr "标题外边距（最大：-1000 ~ 1000）"
+
+#: src/blocks/toms-pretty-list.js:516
+msgid "Title Padding (Max: 0 ~ 1000)"
+msgstr "标题内边距（最大：0 ~ 1000）"
+
+#: src/blocks/toms-pretty-list.js:536
+msgid "Title Border Radius (Max: 0 ~ 100)"
+msgstr "标题背景圆角（最大：0 ~ 100）"
+
+#: src/blocks/toms-pretty-list.js:557 src/blocks/toms-pretty-list.js:821
+msgid "Icon Color"
+msgstr "图标颜色"
+
+#: src/blocks/toms-pretty-list.js:566 src/blocks/toms-pretty-list.js:604
+#: src/blocks/toms-pretty-list.js:641 src/blocks/toms-pretty-list.js:830
+#: src/blocks/toms-pretty-list.js:868 src/blocks/toms-pretty-list.js:905
+#: src/blocks/toms-pretty-list.js:1008
+#, fuzzy
+msgid "Copy the Current Color Value."
+msgstr "复制\"当前颜色值\"。"
+
+#: src/blocks/toms-pretty-list.js:576 src/blocks/toms-pretty-list.js:614
+#: src/blocks/toms-pretty-list.js:651 src/blocks/toms-pretty-list.js:840
+#: src/blocks/toms-pretty-list.js:1018
+msgid "Copied!"
+msgstr "已复制！"
+
+#: src/blocks/toms-pretty-list.js:581 src/blocks/toms-pretty-list.js:619
+#: src/blocks/toms-pretty-list.js:656 src/blocks/toms-pretty-list.js:845
+#: src/blocks/toms-pretty-list.js:1023
+msgid "Copy"
+msgstr "复制"
+
+#: src/blocks/toms-pretty-list.js:586 src/blocks/toms-pretty-list.js:624
+#: src/blocks/toms-pretty-list.js:661 src/blocks/toms-pretty-list.js:850
+#: src/blocks/toms-pretty-list.js:888 src/blocks/toms-pretty-list.js:925
+#: src/blocks/toms-pretty-list.js:1028
+#, fuzzy
+msgid "Reset Color: "
+msgstr "重置颜色："
+
+#: src/blocks/toms-pretty-list.js:595 src/blocks/toms-pretty-list.js:859
+msgid "Font Color"
+msgstr "字体颜色"
+
+#: src/blocks/toms-pretty-list.js:632 src/blocks/toms-pretty-list.js:896
+#: src/blocks/toms-pretty-list.js:999
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: src/blocks/toms-pretty-list.js:672
+msgid "Content Style"
+msgstr "内容样式"
+
+#: src/blocks/toms-pretty-list.js:740
+msgid "Icon Margin (Max: -1000 ~ 1000)"
+msgstr "图标外边距（最大：-1000 ~ 1000）"
+
+#: src/blocks/toms-pretty-list.js:760
+msgid "Margin (Max: -1000 ~ 1000)"
+msgstr "外边距 （最大： -1000 ~ 1000）"
+
+#: src/blocks/toms-pretty-list.js:780
+msgid "Padding (Max: 0 ~ 1000)"
+msgstr "内边距（最大：0 ~ 1000）"
+
+#: src/blocks/toms-pretty-list.js:800
+msgid "Border Radius (Max: 0 ~ 100)"
+msgstr "背景圆角（最大：0 ~ 100）"
+
+#: src/blocks/toms-pretty-list.js:937
+msgid "Box Style"
+msgstr "盒子样式"
+
+#: src/blocks/toms-pretty-list.js:939
+msgid "Box Margin (Max: -1000 ~ 1000)"
+msgstr "外边距 （最大： -1000 ~ 1000）"
+
+#: src/blocks/toms-pretty-list.js:959
+msgid "Box Padding (Max: 0 ~ 1000)"
+msgstr "内边距（最大： 0 ~ 1000）"
+
+#: src/blocks/toms-pretty-list.js:979
+msgid "Box Border Radius (Max: 0 ~ 100)"
+msgstr "圆角（最大：0 ~ 100）"
+
+#: src/blocks/toms-pretty-list.js:1051
+#, fuzzy
+msgid "This Block has been"
+msgstr "此块已被"
+
+#: src/blocks/toms-pretty-list.js:1051
+msgid "Disabled"
+msgstr "禁用"
+
+#: src/blocks/toms-pretty-list.js:1358 src/blocks/toms-pretty-list.js:1392
+msgid "Icon"
+msgstr "图标"
+
+#: src/blocks/toms-pretty-list.js:1365 src/blocks/toms-pretty-list.js:1402
+msgid "SVG"
+msgstr "SVG"
+
+#: src/blocks/toms-pretty-list.js:1373
+msgid "List Title"
+msgstr "列表标题"
+
+#: src/blocks/toms-pretty-list.js:1379 src/blocks/toms-pretty-list.js:1421
+msgid "Link"
+msgstr "链接"
+
+#: src/blocks/toms-pretty-list.js:1412
+msgid "List Content"
+msgstr "列表内容"
+
+#: src/blocks/toms-pretty-list.js:1430
+#, fuzzy
+msgid "Remove this line!!!"
+msgstr "删除此行!!!"
+
+#: src/blocks/toms-pretty-list.js:1451
+msgid "Add New Items"
+msgstr "添加"
+
+#. Plugin Name of the plugin/theme
+#: src/index.js:22 src/index.js:643
+msgid "TomS Pretty List"
+msgstr ""
+
+#. Description of the plugin/theme
+#: src/index.js:641
+#, fuzzy
+msgid ""
+"Simple and beautiful list block. Support all font icon library and SVG icon."
+msgstr "简单而美丽的列表块。支持所有字体图标库和SVG图标。"
+
+#: toms-pretty-list.php:35 toms-pretty-list.php:45
+msgid "TomS Blocks"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tom Sneddon"
+msgstr ""
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://TomSneddon.org"
+msgstr "https://TomSneddon.org"

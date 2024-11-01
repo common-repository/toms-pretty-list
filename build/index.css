@@ -1,0 +1,220 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/index.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+
+/*!*********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/assets/edit.scss ***!
+  \*********************************************************************************************************************************************************************************************************************************************/
+.toms-image-slider {
+  display: flex;
+  flex-wrap: wrap;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/assets/pretty-list.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************************/
+.toms-pretty-list-style-select .components-radio-control__option:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.toms-pretty-list-link-control {
+  justify-content: flex-start;
+  align-items: baseline;
+}
+.toms-pretty-list-link-control .toms-pretty-list-link-control-lock {
+  margin-bottom: 0;
+  flex: 0.8;
+}
+.toms-pretty-list-link-control .toms-pretty-list-link-control-lock .components-base-control__field .components-form-toggle {
+  margin-right: 8px;
+}
+.toms-pretty-list-link-control .toms-pretty-list-link-control-newtab {
+  flex: 1;
+}
+.toms-pretty-list-link-control .toms-pretty-list-link-control-newtab .components-base-control__field .components-form-toggle {
+  margin-right: 8px;
+}
+
+.toms-pretty-list-editor {
+  margin: 20px 5px 5px 5px;
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-title {
+  display: flex;
+  margin-right: 44px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  border-bottom: 2px #009688 solid;
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-title label {
+  font-weight: bold;
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-title .toms-pretty-list-editor-title-icon {
+  flex: 1;
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-title .toms-pretty-list-editor-title-text {
+  flex: 2;
+  padding: 0 2px 0 2px;
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-title .toms-pretty-list-editor-title-link {
+  flex: 1;
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-content {
+  display: flex;
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-content .toms-pretty-list-editor-content-icon {
+  flex: 1;
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-content .toms-pretty-list-editor-content-text {
+  flex: 2;
+  padding: 0 2px 0 2px;
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-content .toms-pretty-list-editor-content-link {
+  flex: 1;
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-content .toms-pretty-list-delete {
+  color: #c50f0f;
+  position: relative;
+  top: 7px;
+  margin: 0px 10px;
+  padding: 0;
+  transition: transform 0.3s ease-out;
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-content .toms-pretty-list-delete:hover {
+  color: #ff0000;
+  transform: scale(1.25) rotate(12deg);
+}
+.toms-pretty-list-editor .toms-pretty-list-editor-content .toms-pretty-list-delete:focus {
+  outline: none;
+  box-shadow: none;
+}
+.toms-pretty-list-editor .toms-pretty-list-button {
+  padding-bottom: 5px;
+}
+
+.toms-pretty-list-style-settings {
+  flex-direction: column;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-heading-level {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-heading-level .components-range-control__wrapper {
+  margin-right: 10px;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-heading-level .components-range-control__wrapper .components-range-control__mark-label {
+  color: #6c7781;
+  font-weight: bold;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-title-font-size {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-title-fonticon-size {
+  margin: 10px 0 0 0;
+  padding: 0;
+  width: 100%;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-svgicon {
+  display: flex;
+  width: 100%;
+  padding: 15px 0;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-svgicon-size {
+  display: flex;
+  justify-content: space-between;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-svgicon-size .components-base-control {
+  margin: 2px;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-margin {
+  display: flex;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-margin .components-base-control {
+  margin: 2px;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-padding {
+  display: flex;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-padding .components-base-control {
+  margin: 2px;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-border-radius {
+  display: flex;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-border-radius .components-base-control {
+  margin: 2px;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-border-radius .components-base-control label {
+  margin-right: 0;
+  max-width: 100%;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-bgcolor-text {
+  padding: 15px 0;
+  width: 100%;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-bgcolor-section {
+  display: flex;
+  margin-top: 10px;
+  justify-content: space-between;
+  width: 220px;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-bgcolor-section .toms-pretty-list-bgcolor-clipboard {
+  flex: 1;
+}
+.toms-pretty-list-style-settings .toms-pretty-list-bgcolor-section .toms-pretty-list-bgcolor-clipboard:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.toms-pretty-list-button-group {
+  width: 100%;
+  margin: 5px;
+  text-align: right;
+}
+
+.toms-pretty-list-reset-section {
+  width: 100%;
+  text-align: right;
+}
+.toms-pretty-list-reset-section .toms-pretty-list-reset-text {
+  line-height: 3;
+}
+.toms-pretty-list-reset-section .toms-pretty-list-reset-button {
+  vertical-align: middle;
+}
+.toms-pretty-list-reset-section .toms-pretty-list-reset-button .toms-pretty-list-reset-icon {
+  color: #c50f0f;
+  transition: transform 0.3s ease-out;
+}
+.toms-pretty-list-reset-section .toms-pretty-list-reset-button .toms-pretty-list-reset-icon:hover {
+  color: #ff0000;
+  transform: scale(1.25) rotate(180deg);
+}
+.toms-pretty-list-reset-section .toms-pretty-list-reset-button:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.toms-pretty-list-style-heading {
+  display: flex;
+  align-items: center;
+}
+.toms-pretty-list-style-heading .toms-pretty-list-style-heading-level {
+  display: flex;
+  align-items: center;
+}
+
+.toms-pretty-list-style .toms-pretty-list-style-li {
+  display: flex;
+  align-items: center;
+}
+
+.toms-pretty-list-colorpicker .saturation-white div:hover {
+  cursor: pointer;
+}
+.toms-pretty-list-colorpicker .flexbox-fix div:hover {
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=index.css.map*/

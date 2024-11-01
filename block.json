@@ -1,0 +1,33 @@
+{
+	"apiVersion": "2",
+	"name": "tomsneddon-pretty-list/toms-pretty-list",
+	"title": "TomS Pretty List",
+	"category": "tomsneddon",
+	"description": "Simple and beautiful list block of posts.",
+	"keywords": [ "toms pretty list" ],
+	"textdomain": "toms-pretty-list",
+	"attributes": {
+		"imageSlider": {
+            "type": "boolean",
+            "default": true
+        },
+        "galleryImages": {
+            "type": "array",
+            "default": [""]
+        },
+        "autoPlay": {
+            "type": "boolean",
+            "default": true
+        },
+        "thumnbail": {
+            "type": "boolean",
+            "default": true
+        },
+        "sliderModal": {
+            "type": "boolean",
+            "default": true
+        }
+    },
+    "editorScript": "file:./build/index.js",
+    "editorStyle": "file:./build/index.css"
+}
